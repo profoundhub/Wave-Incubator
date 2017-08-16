@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Wave PST Compiler
+Implementation-Version: 0.1
+Built-By: No one in particular
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Wave PST Compiler
+Specification-Version: 0.1
+Implementation-Vendor: The Apache Software Foundation
+Main-Class: org.apache.wave.pst.PstMain
+
